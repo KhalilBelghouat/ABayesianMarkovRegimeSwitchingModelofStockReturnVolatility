@@ -18,7 +18,7 @@ So far in the literature, two models have been developed that capture this time-
 
 The parameter estimates indicate that the evolution of the volatility process is heterogeneous between the two regimes. Indeed, we first notice that the two regimes report different levels of unconditional volatility: 10.69 % in the first regime and 26.70 % in the second. Ainsi que des réactions différentes aux rendements négatifs passés: $\alpha_{2, 1} = 0.2171$ contre $\alpha_{2, 2} = 0.3364$. 
 
-<img src="https://latex.codecogs.com/gif.latex?\alpha_{2, 2} = 0.3364" />
+- <img src="https://latex.codecogs.com/gif.latex?\alpha_{2, 2} = 0.3364" />
 
  
 ## Code Structure
