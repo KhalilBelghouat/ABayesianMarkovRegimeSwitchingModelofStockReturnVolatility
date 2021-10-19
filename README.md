@@ -22,4 +22,6 @@ The parameter estimates indicate that the evolution of the volatility process is
 
 ### About The Data
 
+The data, a financial time series, is organized in a table containing 7 columns and 2501 rows. The first column contains the date, the following 4 columns contain the closing, opening, high and low prices of the MASI index, while the remaining columns contain the index's trading volumes and daily variations.
+
 ### Model Building and Estimation
