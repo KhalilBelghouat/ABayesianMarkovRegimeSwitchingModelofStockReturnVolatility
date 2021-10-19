@@ -16,9 +16,14 @@ So far in the literature, two models have been developed that capture this time-
 
 ## Application and Results
 
-The parameter estimates indicate that the evolution of the volatility process is heterogeneous between the two regimes. Indeed, we first notice that the two regimes report different levels of unconditional volatility: 10.69 % in the first regime and 26.70 % in the second. Ainsi que des réactions différentes aux rendements négatifs passés: $\alpha_{2, 1} = 0.2171$ contre $\alpha_{2, 2} = 0.3364$. 
+The parameter estimates indicate that the evolution of the volatility process is heterogeneous between the two regimes. Indeed, we first notice that the two regimes report different levels of unconditional volatility: 10.69 % in the first regime and 26.70 % in the second. As well as different reactions to past negative returns: 0.2171 versus 0.3364. In addition, the persistence of volatility in the two regimes is different. The first regime yields 0.65835 while the second regime yields 0.7333. In summary, the first regime is characterized by: (i) low unconditional volatility, (ii) lower volatility response to past negative returns, and (iii) relatively low persistence of the volatility process. Differently, the second regime is characterized by: (i) high unconditional volatility, (ii) a higher volatility response to past negative returns, and (iii) relatively high persistence of the volatility process. The posterior mean stable probabilities indicate that the probability of being in the first regime is 63.99 %, while being in the second is 36.01 %. Regarding the subsequent distribution of unconditional volatility in each regime. The first regime registers, on average, about 7.34 % per annum. While the second registers 54.30 %. The Bayesian approach provides 95% confidence intervals which are respectively [4.08 %, 14.60 %] and [24.78 %, 134.60 %].
 
-- <img src="https://latex.codecogs.com/gif.latex?\alpha_{2, 2} = 0.3364" />
+
+
+
+
+
+
 
  
 ## Code Structure
